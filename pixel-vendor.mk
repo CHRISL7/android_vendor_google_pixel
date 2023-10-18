@@ -98,4 +98,11 @@ PRODUCT_PACKAGES += \
     MarkupGoogle \
     SoundPickerPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
-    Flipendo
+    Flipendo \
+    SystemUIClocks-BigNum \
+    SystemUIClocks-Calligraphy \
+    SystemUIClocks-Flex \
+    SystemUIClocks-Growth \
+    SystemUIClocks-Handwritten \
+    SystemUIClocks-Inflate \
+    SystemUIClocks-NumOverlap

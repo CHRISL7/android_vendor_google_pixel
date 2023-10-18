@@ -89,3 +89,12 @@ product/media/audio/ui/WirelessChargingStarted.ogg
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;OVERRIDES=SettingsIntelligence;PRESIGNED
 system_ext/app/Flipendo/Flipendo.apk
 system_ext/etc/permissions/privapp-permissions-google-se.xml
+
+# SystemUIClocks
+system_ext/app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
+system_ext/app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+system_ext/app/SystemUIClocks-Flex/SystemUIClocks-Flex.apk
+system_ext/app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
+system_ext/app/SystemUIClocks-Handwritten/SystemUIClocks-Handwritten.apk
+system_ext/app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
+system_ext/app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
